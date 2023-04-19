@@ -1,6 +1,10 @@
 # GPX Recorder
 
-Screenshots to be included tomorrow!
+<div style="display: flex;">
+  <img src="./images/gpx_main.png" width="250">
+  <img src="./images/gpx_poi.png" width="250">
+  <img src="./images/gpx_files.png" width="250">
+</div>
 
 ## Application Overview
 
@@ -21,7 +25,7 @@ This application has also yet to be tested on iOS platform.
 2. Launch the app and allow it to access your device's GPS.
 3. Tap the "Start Recording" button to begin recording your ride.
 4. Once you're finished with your ride, tap the "Stop Recording" button to stop recording.
-5. You can view your ride history by tapping the "Ride History" button.
+5. You can view your ride history by tapping the "View Saved GPX" button.
 
 ## Tutorials and Open-Source Projects
 
